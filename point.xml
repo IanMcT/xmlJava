@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<points>
 <point>
   <x>0</x>
-  <y>0</0>
+  <y>0</y>
 </point>
+<point>
+  <x>1</x>
+  <y>2</y>
+</point>
+</points>
